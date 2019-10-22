@@ -2,7 +2,7 @@ package test;
 
 import javax.swing.JFrame;
 import javax.swing.UIManager;
-//Main class
+//class
 public class Main {
 	public static JFrame frame;
 	public static String dir = "";
